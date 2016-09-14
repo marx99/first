@@ -13,4 +13,14 @@ Ruby on Rails 指南
 
 http://guides.ruby-china.org/
 
+python3-cookbook中文版：
 
+http://python3-cookbook.readthedocs.io/zh_CN/latest
+
+Git权威指南：
+
+http://www.worldhello.net/gotgit/
+
+GotGitHub：
+
+http://www.worldhello.net/gotgithub/
