@@ -24,3 +24,8 @@ http://www.worldhello.net/gotgit/
 GotGitHub：
 
 http://www.worldhello.net/gotgithub/
+
+まつもとゆきひろ コードの世界
+松本行弘的程序世界
+
+https://book.douban.com/subject/6756090/
