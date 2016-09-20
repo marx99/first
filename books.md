@@ -29,3 +29,7 @@ http://www.worldhello.net/gotgithub/
 松本行弘的程序世界
 
 https://book.douban.com/subject/6756090/
+
+台湾版计算机，网络，linux等基础教程
+
+http://www.study-area.org/menu1.htm
