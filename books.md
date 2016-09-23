@@ -38,14 +38,6 @@ http://www.study-area.org/menu1.htm
 
 http://python3-cookbook.readthedocs.io/zh_CN/latest
 
-Git权威指南：
-
-http://www.worldhello.net/gotgit/
-
-GotGitHub：
-
-http://www.worldhello.net/gotgithub/
-
 Python中文学习大本营（主要是flask教程，很好）
 
 http://www.pythondoc.com/
@@ -59,10 +51,6 @@ http://www.open-open.com/doc/list/43?o=d
 用Python做科学计算（nice，还有很多其他教程）
 
 http://old.sebug.net/paper/books/scipydoc/index.html
-
-winpython:
-
-https://sourceforge.net/projects/winpython/
 
 Python库包：(400M)
 
