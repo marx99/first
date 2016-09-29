@@ -1,8 +1,10 @@
-1.xueqiu自動调仓
+计划 Leanclound + python ，学习+应用
 
-2.华泰自动定投
+1.xueqiu自動调仓（python）
 
-3.免费十档行情
+2.华泰自动定投（python）
+
+3.免费十档行情（python? .net? php?）
 
 leancloud:
 
