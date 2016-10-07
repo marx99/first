@@ -9,3 +9,7 @@ http://www.zuidaima.com/share/2082681790860288.htm
 DDPush  任意门推送  开源免费实时信息推送服务器
 
 http://www.ddpush.net/
+
+WebSocket with Flask
+
+http://www.cnblogs.com/ymy124/p/4514114.html
