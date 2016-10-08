@@ -13,3 +13,7 @@ http://www.ddpush.net/
 WebSocket with Flask
 
 http://www.cnblogs.com/ymy124/p/4514114.html
+
+“Easy WebSockets with Flask and Gevent” 翻译学习笔记 ——Flask WebSocket使用快速入门
+
+http://www.cnblogs.com/KattyJoy/archive/2016/08/16/5777356.html
