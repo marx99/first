@@ -17,3 +17,7 @@ http://www.cnblogs.com/ymy124/p/4514114.html
 “Easy WebSockets with Flask and Gevent” 翻译学习笔记 ——Flask WebSocket使用快速入门
 
 http://www.cnblogs.com/KattyJoy/archive/2016/08/16/5777356.html
+
+使用Nodejs实现实时推送MySQL数据库最新信息到客户端
+
+http://www.bubuko.com/infodetail-285888.html
