@@ -81,3 +81,7 @@ https://github.com/dormouse/Flask_Docs_ZhCn
 Python爬虫教程
 
 http://cuiqingcai.com/1052.html
+
+gevent程序员指南
+
+http://xlambda.com/gevent-tutorial/#
