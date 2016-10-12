@@ -35,3 +35,7 @@ http://superwebsocket.codeplex.com/SourceControl/latest#README.TXT
 thinkjs（国产nodejs framwork）
 
 https://thinkjs.org
+
+leverfun 10档行情url
+
+https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
