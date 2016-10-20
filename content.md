@@ -43,3 +43,5 @@ https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
 腾迅股票数据接口 http://blog.csdn.net/ustbhacker/article/details/8365756
 
 新浪股票数据接口 http://blog.csdn.net/simon803/article/details/7784682
+
+新浪分钟线图片 http://image.sinajs.cn/newchart/min/n/sh000001.gif
