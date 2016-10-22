@@ -49,3 +49,5 @@ https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
 百度图标库echarts：http://echarts.baidu.com/
 
 Highcharts：http://www.hcharts.cn/
+
+阿里巴巴图表库：https://g2.alipay.com/
