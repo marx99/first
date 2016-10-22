@@ -45,3 +45,7 @@ https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
 新浪股票数据接口 http://blog.csdn.net/simon803/article/details/7784682
 
 新浪分钟线图片 http://image.sinajs.cn/newchart/min/n/sh000001.gif
+
+百度图标库echarts：http://echarts.baidu.com/
+
+Highcharts：http://www.hcharts.cn/
