@@ -1,18 +1,10 @@
-Linux(Ubuntu14.04)下安装Anaconda和Spyder
+Linux(Ubuntu14.04)下安装Anaconda和Spyder：http://www.linuxdiyf.com/linux/20903.html
 
-http://www.linuxdiyf.com/linux/20903.html
+nodejs推送push mysql数据更新到前端显示：http://www.zuidaima.com/share/2082681790860288.htm
 
-nodejs推送push mysql数据更新到前端显示
+DDPush  任意门推送  开源免费实时信息推送服务器：http://www.ddpush.net/
 
-http://www.zuidaima.com/share/2082681790860288.htm
-
-DDPush  任意门推送  开源免费实时信息推送服务器
-
-http://www.ddpush.net/
-
-WebSocket with Flask
-
-http://www.cnblogs.com/ymy124/p/4514114.html
+WebSocket with Flask：http://www.cnblogs.com/ymy124/p/4514114.html
 
 “Easy WebSockets with Flask and Gevent” 翻译学习笔记 ——Flask WebSocket使用快速入门
 
@@ -32,13 +24,9 @@ SuperWebSocket, a .NET WebSocket Server
 
 http://superwebsocket.codeplex.com/SourceControl/latest#README.TXT
 
-thinkjs（国产nodejs framwork）
+thinkjs（国产nodejs framwork）：https://thinkjs.org
 
-https://thinkjs.org
-
-leverfun 10档行情url
-
-https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
+leverfun 10档行情url：https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
 
 腾迅股票数据接口 http://blog.csdn.net/ustbhacker/article/details/8365756
 
@@ -51,3 +39,5 @@ https://app.leverfun.com/timelyInfo/timelyOrderForm?stockCode=000001
 Highcharts：http://www.hcharts.cn/
 
 阿里巴巴图表库：https://g2.alipay.com/
+
+Fiddler 抓取手机APP数据包：http://www.cnblogs.com/yunspider/p/5043337.html
