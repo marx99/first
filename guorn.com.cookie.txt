@@ -1,0 +1,29 @@
+签到时的请求信息：
+
+Request URL:https://guorn.com/score/signup
+Request Method:POST
+Status Code:200 OK
+Remote Address:10.88.42.18:8080
+
+Response Headers
+
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:text/html; charset=UTF-8
+Date:Thu, 27 Oct 2016 08:27:39 GMT
+Server:TornadoServer/4.2.1
+Transfer-Encoding:chunked
+
+Request Headers
+
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.8,ja;q=0.6
+Connection:keep-alive
+Content-Length:0
+Cookie:uname="2|1:0|10:1476424854|5:uname|8:dG9zdGVt|5188995b1db2c95aebc8103680ff5ad96f9c76a7824099664d07b3d126b4143a"; account="2|1:0|10:1476424854|7:account|28:bWF4aW5nemhlOTlAMTI2LmNvbQ==|79cb1f55b27be0a13692a45750c256e37247e771704f832a12473ff875ab6c88"; user="2|1:0|10:1476424854|4:user|4:NDk0|47d9a63a1c06707916abc0af69f8b2aba21022f4a239f12981a2d88abb4cd088"; token="2|1:0|10:1476424854|5:token|76:YzliNDZjMmE5NGE0YjA4YzRlNDg2M2U3OWM2NGUyZDk4ZGZjYWFjYTNjNThmMzlhYTI1MDUwNjk=|c081c2e33c25254d07ee407cde24352d6ecf5a3590c5ce7145e8a818cf5b175a"; _ga=GA1.2.791874259.1476424808; _gat=1; Hm_lvt_40ee94ccee2cf1051316f73e3fbcf8ac=1476424809,1476685167,1477103832,1477556835; Hm_lpvt_40ee94ccee2cf1051316f73e3fbcf8ac=1477556835
+Host:guorn.com
+Origin:https://guorn.com
+Referer:https://guorn.com/
+User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+X-Requested-With:XMLHttpRequest
