@@ -44,3 +44,4 @@ Fiddler 抓取手机APP数据包：http://www.cnblogs.com/yunspider/p/5043337.ht
 
 潘绥铭
 
+PYTHON SSL HTTPS认证：https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl
