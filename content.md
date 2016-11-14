@@ -49,3 +49,5 @@ PYTHON SSL HTTPS认证：https://urllib3.readthedocs.io/en/latest/user-guide.htm
 Python搭建BT资源搜索站:http://www.au92.com/archives/P-y-t-h-o-n-da-jian-B-T-zi-yuan-sou-suo-zhan-yi.html
 
 android user-agent:https://github.com/piwik/device-detector/pull/5390/files
+
+ 应用开发不可不知的五大BaaS后端云服务:http://blog.csdn.net/u013164293/article/details/51219688
