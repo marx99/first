@@ -51,3 +51,5 @@ Python搭建BT资源搜索站:http://www.au92.com/archives/P-y-t-h-o-n-da-jian-B
 android user-agent:https://github.com/piwik/device-detector/pull/5390/files
 
  应用开发不可不知的五大BaaS后端云服务:http://blog.csdn.net/u013164293/article/details/51219688
+ 
+ 8款第三方移动消息推送服务平台：http://www.csdn.net/article/2013-09-10/2816885-8-push-service-for-mobile-developers
