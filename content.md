@@ -55,3 +55,5 @@ android user-agent:https://github.com/piwik/device-detector/pull/5390/files
  8款第三方移动消息推送服务平台：http://www.csdn.net/article/2013-09-10/2816885-8-push-service-for-mobile-developers
 
 云邦互联免费空间：http://www.yunzz.net/host/free.html
+
+代理IP: http://ip.mengdie.com/
