@@ -57,3 +57,4 @@ android user-agent:https://github.com/piwik/device-detector/pull/5390/files
 云邦互联免费空间：http://www.yunzz.net/host/free.html
 
 代理IP: http://ip.mengdie.com/
+http://www.kuaidaili.com/pricing/
