@@ -53,3 +53,10 @@ node。js在安装的时候默认会安装npm，npm的默认的模块文件夹�
 *[快代理](http://www.kuaidaili.com/pricing/)
 
 *[24款 开源问答系统开源软件](http://www.oschina.net/project/tag/299/qa)
+
+[python selenium expected_conditions使用实例](http://www.cnblogs.com/nbkhic/p/4885041.html)
+```
+Expected Conditions的使用场景有2种
+1.直接在断言中使用
+2.与WebDriverWait配合使用，动态等待页面上元素出现或者消失
+```
